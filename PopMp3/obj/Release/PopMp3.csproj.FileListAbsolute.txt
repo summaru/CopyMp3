@@ -1,0 +1,8 @@
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Release\PopMp3.exe.config
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Release\PopMp3.exe
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Release\PopMp3.pdb
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Release\PopMp3.Form1.resources
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Release\PopMp3.Properties.Resources.resources
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Release\PopMp3.csproj.GenerateResource.Cache
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Release\PopMp3.exe
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Release\PopMp3.pdb

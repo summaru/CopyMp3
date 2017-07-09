@@ -1,0 +1,9 @@
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Debug\PopMp3.exe.config
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Debug\PopMp3.exe
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\bin\Debug\PopMp3.pdb
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.csprojResolveAssemblyReference.cache
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.Form1.resources
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.Properties.Resources.resources
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.csproj.GenerateResource.Cache
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.exe
+C:\Users\cp\Documents\Visual Studio 2017\Projects\PopMp3\PopMp3\obj\Debug\PopMp3.pdb
